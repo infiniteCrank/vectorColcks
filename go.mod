@@ -11,5 +11,6 @@ require (
 	github.com/hashicorp/go-immutable-radix v1.3.1 // indirect
 	github.com/hashicorp/go-memdb v1.3.4 // indirect
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
+	github.com/mattn/go-sqlite3 v1.14.24
 	github.com/spf13/pflag v1.0.5 // indirect
 )
